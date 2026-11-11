@@ -11,7 +11,7 @@ I build production Flutter apps with Clean Architecture, BLoC/Riverpod and Fireb
 ## Featured work
 
 ### [ExpenseFlow](https://github.com/Amrut-03/expense_flow_app): offline-first expense tracker with an on-device AI assistant
-- Chat about your spending with **Gemma 3n running locally**, grounded in your own data through on-device embeddings (MiniLM + TensorFlow Lite) and a quantised vector index
+- Chat about your spending with an **on-device LLM (Qwen2.5-0.5B via flutter_gemma / MediaPipe)**, grounded in your own data through on-device embeddings (MiniLM + TensorFlow Lite) and a quantised vector index
 - AES-256 encrypted Hive storage with the key in Android Keystore / iOS Keychain, Firestore sync with conflict handling
 - On-device receipt OCR, voice entry in English, Hindi and Marathi, home-screen widget
 - Clean Architecture, flutter_bloc, get_it, go_router · 30+ test files (mocktail) · GitHub Actions release to Play Store
@@ -46,7 +46,7 @@ I build production Flutter apps with Clean Architecture, BLoC/Riverpod and Fireb
 
 **Mobile:** Flutter, Dart · **State and architecture:** flutter_bloc, Riverpod, Provider, get_it, Clean Architecture, MVVM
 **Backend and data:** Firebase (Auth, Firestore, FCM), REST APIs, Node.js, MongoDB, SQL, Hive
-**On-device AI:** flutter_gemma (Gemma 3n), TensorFlow Lite
+**AI:** flutter_gemma (on-device LLM inference), TensorFlow Lite (MiniLM embeddings), Firebase AI Logic (Gemini)
 **Tooling:** FVM, GitHub Actions, mocktail, Java
 
 ---
