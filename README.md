@@ -1,122 +1,54 @@
-# Hi there, I'm Amrut Khochikar 👋
+# Amrut Khochikar
 
-## 🚀 About Me
-I'm a Software Engineer and Flutter Developer passionate about building scalable, high-performance mobile applications and solving real-world problems through technology.
+**Flutter developer building AI-powered mobile apps.** Bengaluru, India.
 
-- 📱 Flutter & Dart Developer
-- 💻 Computer Science & Engineering Graduate
-- 🏗️ Experienced with Clean Architecture, Bloc, and GetX
-- 🔥 230+ LeetCode Problems Solved
-- 📦 Published Flutter Package on pub.dev
-- 🌱 Currently learning Backend Development, Testing, DevOps, and System Design
+I build production Flutter apps with Clean Architecture, BLoC/Riverpod and Firebase, and I'm currently focused on **on-device AI**: running LLMs and embeddings locally so user data never leaves the phone.
+
+[LinkedIn](https://www.linkedin.com/in/amrut-khochikar/) · [pub.dev package](https://pub.dev/packages/flutter_body_part_selector) · [LeetCode](https://leetcode.com/u/Amrut_03/)
 
 ---
 
-## 🛠️ Tech Stack
+## Featured work
 
-### Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### [ExpenseFlow](https://github.com/Amrut-03/expense_flow_app): offline-first expense tracker with an on-device AI assistant
+- Chat about your spending with **Gemma 3n running locally**, grounded in your own data through on-device embeddings (MiniLM + TensorFlow Lite) and a quantised vector index
+- AES-256 encrypted Hive storage with the key in Android Keystore / iOS Keychain, Firestore sync with conflict handling
+- On-device receipt OCR, voice entry in English, Hindi and Marathi, home-screen widget
+- Clean Architecture, flutter_bloc, get_it, go_router · 30+ test files (mocktail) · GitHub Actions release to Play Store
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### [BeFit](https://github.com/Amrut-03/befit_fitness_1.0): fitness and nutrition app
+- Workouts from ExerciseDB (1,500+ exercises), barcode food scanning via Open Food Facts, macro tracking, health charts
+- Muscle-based workout filtering using my own published package, `flutter_body_part_selector`
+- Clean Architecture, flutter_bloc, Firebase Auth/Firestore/FCM, Gemini via Firebase AI Logic
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### [flutter_body_part_selector](https://pub.dev/packages/flutter_body_part_selector): published Flutter package
+- Tappable SVG muscle map (front/back) with selection, disabling and programmatic control
+- Built for BeFit, published on pub.dev for anyone building fitness UIs
 
-### Database & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-### State Management
-- Bloc
-- GetX
-- Riverpod
-
-### Tools & Technologies
-- Git & GitHub
-- Postman
-- Android Studio
-- VS Code
-- Jira
-- REST APIs
-- Firebase Authentication
-- Firebase Realtime Database
-- Hive
-- Secure Storage
+### [Focus Sessions](https://github.com/Amrut-03/focus_sessions): focus timer
+- Backgrounding-safe countdown (`endTime - now()`), session history, offline fallback for remote quotes
+- Cubits with injected clock, repository and `http.Client`, so every piece is unit-tested
 
 ---
 
-## 💼 Experience
+## Experience
 
-### Software Engineer (Intern → Consultant)
-**Mitt Arv Technologies Pvt. Ltd.**
-- Developed and maintained Flutter applications
-- Improved app performance and UI/UX
-- Integrated REST APIs and optimized data handling
-- Applied Clean Architecture and SOLID principles
-
-### Flutter Developer Intern
-**Cryptographic Solutions**
-- Built Flutter applications from scratch
-- Implemented Riverpod state management
-- Integrated REST APIs and performed testing
-
-### Mobile Application Developer Intern
-**Digital Development Leadership Group**
-- Worked on ride-service mobile applications
-- Integrated Firebase and Google Maps
-- Contributed to payment gateway integration
+| Role | Company | Dates |
+|---|---|---|
+| Software Engineer | Mitt Arv | Oct 2025 – Apr 2026 |
+| Software Engineer Intern | Mitt Arv | Apr 2025 – Sep 2025 |
+| Flutter Developer Intern | Cryptographic Solutions | Jul 2024 – Sep 2024 |
+| Mobile App Developer Intern | Digital Development and Leadership Group | Mar 2024 – Apr 2024 |
 
 ---
 
-## 🚀 Featured Projects
+## Stack
 
-### 🏋️ BeFit - Fitness App
-A Flutter-based fitness tracking application featuring:
-- Clean Architecture
-- Bloc State Management
-- Firebase Integration
-- Health & Workout Tracking
-- Charts & Analytics
-
-### 📚 Interview Prep App
-A mobile application for:
-- CS Fundamentals
-- Aptitude Practice
-- MCQ-Based Learning
-- Firebase Authentication
-
-### 📦 Flutter Body Part Selector
-A reusable Flutter package published on pub.dev.
+**Mobile:** Flutter, Dart · **State and architecture:** flutter_bloc, Riverpod, Provider, get_it, Clean Architecture, MVVM
+**Backend and data:** Firebase (Auth, Firestore, FCM), REST APIs, Node.js, MongoDB, SQL, Hive
+**On-device AI:** flutter_gemma (Gemma 3n), TensorFlow Lite
+**Tooling:** FVM, GitHub Actions, mocktail, Java
 
 ---
 
-## 🏆 Achievements
-
-- 🥉 3rd Rank in Algo Expert (Reflex) among 200+ participants
-- 💯 230+ LeetCode Problems Solved
-- 📦 Published Flutter Package on pub.dev
-- 🚀 Built multiple production-ready Flutter applications
-
----
-
-## 📈 GitHub Stats
-
-![Amrut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amrut-03&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrut-03&layout=compact)
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 📧 Email: amrutkhochikar@gmail.com
-- 🖥️ GitHub: https://github.com/Amrut-03
-
----
-
-⭐ If you like my work, consider starring my repositories!
+230+ LeetCode problems · 3rd place in Algo Expert (Reflex) among 200+ participants
