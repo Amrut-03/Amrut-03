@@ -54,23 +54,13 @@ Fitness and nutrition app: 1,500+ exercises, barcode food scanning, macro tracki
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 #### 🦵 [flutter_body_part_selector](https://pub.dev/packages/flutter_body_part_selector)
 Published Flutter package: a tappable SVG muscle map (front/back) with selection, disabling and programmatic control. Built for BeFit.
 
 ![pub version](https://img.shields.io/pub/v/flutter_body_part_selector?style=flat-square&logo=dart&color=0175C2)
 ![pub likes](https://img.shields.io/pub/likes/flutter_body_part_selector?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-#### ⏱️ [Focus Sessions](https://github.com/Amrut-03/focus_sessions)
-Focus timer that stays correct after backgrounding, with session history and an offline fallback for remote quotes. Cubits with an injected clock, repository and HTTP client, all unit-tested.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Cubit](https://img.shields.io/badge/Cubit-8B5CF6?style=flat-square)
-![Tested](https://img.shields.io/badge/unit_%2B_widget_tests-2EA44F?style=flat-square)
 
 </td>
 </tr>
