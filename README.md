@@ -61,6 +61,7 @@ Published Flutter package: a tappable SVG muscle map (front/back) with selection
 
 ![pub version](https://img.shields.io/pub/v/flutter_body_part_selector?style=flat-square&logo=dart&color=0175C2)
 ![pub likes](https://img.shields.io/pub/likes/flutter_body_part_selector?style=flat-square)
+![pub downloads](https://img.shields.io/pub/dm/flutter_body_part_selector?style=flat-square&label=downloads&color=2EA44F)
 
 </td>
 </tr>
