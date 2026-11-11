@@ -87,7 +87,7 @@ Published Flutter package: a tappable SVG muscle map (front/back) with selection
 
 | Area | Tools |
 |---|---|
-| **Architecture and state** | Clean Architecture, MVVM, flutter_bloc, Riverpod, Provider, get_it |
+| **Architecture and state** | Clean Architecture, MVVM, flutter_bloc, GetX, Riverpod, Provider, get_it |
 | **AI** | flutter_gemma (on-device LLM inference), TensorFlow Lite (MiniLM embeddings), Firebase AI Logic (Gemini), RAG |
 | **Data and backend** | Firebase Auth, Firestore, FCM, Hive, REST APIs, Node.js, MongoDB, SQL |
 | **Tooling** | FVM, GitHub Actions, mocktail, go_router |
