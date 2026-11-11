@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=190&section=header&text=Amrut%20Khochikar&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Flutter%20developer%20building%20AI-powered%20mobile%20apps&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Amrut Khochikar, Flutter developer building AI-powered mobile apps"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=13B9FD&center=true&vCenter=true&width=620&lines=On-device+LLMs+and+RAG+in+Flutter;Clean+Architecture+%C2%B7+BLoC+%C2%B7+Riverpod;Offline-first%2C+privacy-first+mobile+apps;Published+package+on+pub.dev" alt="On-device LLMs and RAG in Flutter · Clean Architecture · BLoC · Riverpod"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=13B9FD&center=true&vCenter=true&width=620&lines=On-device+LLMs+and+RAG+in+Flutter;Clean+Architecture+%C2%B7+BLoC+%C2%B7+GetX;Offline-first%2C+privacy-first+mobile+apps;Published+package+on+pub.dev" alt="On-device LLMs and RAG in Flutter · Clean Architecture · BLoC · GetX"/>
 </p>
 
 <p align="center">
